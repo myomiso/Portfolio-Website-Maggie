@@ -181,3 +181,20 @@ section {
     text-align: center;
 }
 
+.section__text p {
+    font-weight: 600;
+}
+
+.section_text__p1 {
+    text-align: center;
+}
+
+.section_text__p1 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+}
