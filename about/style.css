@@ -226,11 +226,31 @@ section {
     margin: auto 0;
 }
 
+.text-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    height: 80%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    flex-direction: column;
+}
+
 .section__text__p1 {
     text-align: center;
 }
 
 .section__text__p2 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.section__text__p3 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.section__text__p4 {
     font-size: 1.75rem;
     margin-bottom: 1rem;
 }
