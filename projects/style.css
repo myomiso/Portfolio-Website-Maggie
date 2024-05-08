@@ -220,7 +220,7 @@ section {
 .article-container {
     padding: 1.5rem;
     flex: 1;
-    background: white;
+    background: rgb(217, 217, 217);
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
@@ -261,7 +261,7 @@ section {
 
 .btn-color-1, .btn-color-2:hover {
     background: rgb(53, 53, 53);
-    color: white;
+    color: rgb(217, 217, 217);
 }
 
 .btn-color-1:hover {
