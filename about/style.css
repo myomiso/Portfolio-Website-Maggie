@@ -203,6 +203,7 @@ section {
 
 #about {
     position: relative;
+    justify-content: center;
 }
 
 .about-containers {
@@ -227,14 +228,11 @@ section {
 }
 
 .text-container {
-    display: flex;
+    display: center;
     gap: 2rem;
     height: 80%;
-    padding: 1.5rem;
-    flex: 1;
     margin-bottom: 2rem;
     margin-top: 2rem;
-    text-align: center;
 }
 
 .section__text__p1 {
