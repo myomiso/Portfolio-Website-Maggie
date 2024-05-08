@@ -228,7 +228,6 @@ section {
 
 .text-container {
     display: flex;
-    justify-content: center;
     gap: 2rem;
     height: 80%;
     padding: 1.5rem;
