@@ -212,6 +212,7 @@ section {
 }
 
 .about-pic {
+    display: center;
     border-radius: 2rem;
 }
 
@@ -231,9 +232,10 @@ section {
     justify-content: center;
     gap: 2rem;
     height: 80%;
+    padding: 1.5rem;
+    flex: 1;
     margin-bottom: 2rem;
     margin-top: 2rem;
-    flex-direction: column;
     text-align: center;
 }
 
