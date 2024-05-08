@@ -214,7 +214,6 @@ section {
 }
 
 .about-pic {
-    display: flex;
     height: 400px;
     width: 400px;
     margin: auto 0;
@@ -228,6 +227,7 @@ section {
 }
 
 .section_pic-container {
+    display: center;
     height: 400px;
     width: 400px;
     margin: auto 0;
