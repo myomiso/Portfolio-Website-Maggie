@@ -146,10 +146,30 @@ a:hover {
     transform: none;
 }
 
+/* SECTIONS */
+
+section {
+    padding-top: 4vh;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
+}
+
+.section-container {
+    display: flex;
+}
+
 /* PROJECTS */
 
 #projects {
     position: relative;
+}
+
+.project-container {
+    gap: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
 }
 
 .color-container {

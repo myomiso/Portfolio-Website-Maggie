@@ -203,6 +203,7 @@ section {
 
 #about {
     position: relative;
+    justify-content: center;
 }
 
 .about-containers {
@@ -212,7 +213,10 @@ section {
 }
 
 .about-pic {
-    border-radius: 2rem;
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: auto 0;
 }
 
 .section-container {
