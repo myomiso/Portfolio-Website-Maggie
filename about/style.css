@@ -212,7 +212,6 @@ section {
 }
 
 .about-pic {
-    display: center;
     border-radius: 2rem;
 }
 
@@ -222,6 +221,8 @@ section {
 }
 
 .section_pic-container {
+    display: flex;
+    justify-content: center;
     height: 400px;
     width: 400px;
     margin: auto 0;
