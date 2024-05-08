@@ -234,6 +234,7 @@ section {
     margin-bottom: 2rem;
     margin-top: 2rem;
     flex-direction: column;
+    text-align: center;
 }
 
 .section__text__p1 {
