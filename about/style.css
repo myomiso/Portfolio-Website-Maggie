@@ -215,8 +215,7 @@ section {
 
 .about-pic {
     display: flex;
-    justify-content: center;
-    align-content: center;
+    align-items: center;
     height: 400px;
     width: 400px;
     margin: auto 0;
