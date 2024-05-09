@@ -220,7 +220,7 @@ section {
 }
 
 .section-container {
-    display: flex;
+    display: center;
     justify-content: center;
     gap: 4rem;
     height: 80%;
@@ -228,6 +228,7 @@ section {
 
 .section_pic-container {
     display: center;
+    justify-content: center;
     height: 400px;
     width: 400px;
     margin: auto 0;
