@@ -214,6 +214,8 @@ section {
 }
 
 .about-pic {
+    display: center;
+    justify-content: center;
     height: 400px;
     width: 400px;
     margin: auto 0;
